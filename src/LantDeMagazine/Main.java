@@ -344,6 +344,8 @@ public class Main {
         String MeniuAD;
         while(true) {
             afisareProduseMagazin(magazinSelectat);
+
+
             System.out.println(" Tastati 100 - MENIU ADMINISTRATOR");
             System.out.println("Tastati 5 - EXIT");
             MeniuAD = key.nextLine();
